@@ -1,4 +1,4 @@
-Hi, I’m @rileyelwell. I’m interested in software development, graphic design, game design, and web development. I know C, C++, HTML, and a bit of CSS and JS. I am currently learning the Unity game engine and praciticing development on there. Any projects I finish will be uploaded to here soon afterward.
+Hi, I’m @rileyelwell. I’m interested in software development, game design, and web development. I know C/C++/C#, Python, and web development (HTML, CSS, JS). I have experience with Unity, and am developing my skills with Blender and Unreal Engine.
 
 You can contact me at rileyelwell2@gmail.com
 
